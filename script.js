@@ -17,7 +17,7 @@ const showSection = () => {
 window.addEventListener("scroll", showSection);
 showSection();
 
-const text = "Python Developer | Full Stack Learner";
+const text = "Aspiring Python & AI Developer | Building Real-World Projects";
 let index = 0;
 const speed = 40;
 
